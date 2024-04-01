@@ -19,14 +19,14 @@
 <details>
   <summary>Table of Contents</summary><br>
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-- [ Project Roadmap](#-project-roadmap)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Repository Structure](#repository-structure)
+- [ Modules](#modules)
+- [ Getting Started](#getting-started)
+  - [ Installation](#installation)
+  - [ Usage](#usage)
+- [ Project Roadmap](#project-roadmap)
 </details>
 <hr>
 
@@ -116,6 +116,6 @@ Hi! 👋 I'm ChumBot - just a little guy from the big blue sea that loves to see
 
 ---
 
-[**Return**](#-overview)
+[**Return**](#overview)
 
 ---
