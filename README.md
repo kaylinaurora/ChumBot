@@ -46,7 +46,7 @@ Hi! 👋 I'm ChumBot - just a little guy from the big blue sea that loves to see
 >> [Link to 'View Message']
 - React to any *DM from **ChumBot*** with a ❌ emoji
   - This will delete any DM received by **ChumBot**
-
+- All server transactions are logged in `chumbot.log`
 ---
 
 ##  Repository Structure
@@ -54,7 +54,6 @@ Hi! 👋 I'm ChumBot - just a little guy from the big blue sea that loves to see
 ```sh
 └── ./
     ├── ChumBot.py
-    ├── chumbot.log
     └── requirements.txt
 ```
 
