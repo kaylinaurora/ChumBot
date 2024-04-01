@@ -102,7 +102,7 @@ Hi! 👋 I'm ChumBot - just a little guy from the big blue sea that loves to see
 
 ###  Usage
 
-> Run the bot
+> Run the bot:
 > ```console
 > $ python ChumBot.py
 > ```
