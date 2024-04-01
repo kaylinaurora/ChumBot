@@ -3,6 +3,7 @@ from discord.ext import commands
 from dotenv import load_dotenv
 import os
 import logging
+
 # grab token from .env
 load_dotenv()
 bot_token = os.getenv('DISCORD_BOT_TOKEN')
