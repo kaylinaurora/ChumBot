@@ -38,6 +38,7 @@ Hi! 👋 I'm ChumBot - just a little guy from the big blue sea that loves to see
 
 ##  Features
 
+<img src="https://i.ibb.co/CmbF7WB/chumbot-demo.png" width="400"><br>
 - React to any *server message* with a 🤕 emoji
   - This will trigger a DM to be sent to the author, letting them know their message was hurtful
 > Hello, your message received a 🤕 reaction indicating it may have been hurtful. Please be mindful of your words. <br><br>
